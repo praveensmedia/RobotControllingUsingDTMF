@@ -1,3 +1,4 @@
+//written for Arduino-UNO by praveen kumar
 #define m11 5                               //left motor pins inputs to L293D
 #define m12 4             
 #define m21 7                               //right motor pins inputs to L293D
